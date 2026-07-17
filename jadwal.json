@@ -1,0 +1,31 @@
+{
+  "senin": [
+    "B. Indo",
+    "MTK",
+    "PABP"
+  ],
+  "selasa": [
+    "IPA",
+    "PJOK",
+    "Informatika"
+  ],
+  "rabu": [
+    "B. Indo",
+    "IPA",
+    "Seni",
+    "IPS"
+  ],
+  "kamis": [
+    "P. Pancasila",
+    "IPS",
+    "B. Inggris",
+    "BK"
+  ],
+  "jumat": [
+    "B. Indo",
+    "MTK",
+    "B. Inggris"
+  ],
+  "sabtu": [],
+  "minggu": []
+}
