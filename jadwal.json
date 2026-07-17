@@ -1,33 +1,31 @@
 {
-  "senin": [
+  "monday": [
     "B. Indo",
     "MTK",
     "PABP"
   ],
-  "selasa": [
+  "tuesday": [
     "IPA",
     "PJOK",
     "Informatika"
   ],
-  "rabu": [
+  "wednesday": [
     "B. Indo",
     "IPA",
     "Seni",
     "IPS"
   ],
-  "kamis": [
+  "thursday": [
     "P. Pancasila",
     "IPS",
     "B. Inggris",
     "BK"
   ],
-  "jumat": [
+  "friday": [
     "B. Indo",
     "MTK",
     "B. Inggris"
   ],
-  "sabtu": [],
-  "minggu": []
+  "saturday": [],
+  "sunday": []
 }
-
-
